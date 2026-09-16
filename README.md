@@ -19,8 +19,8 @@
       <h3 style="margin: 0 0 8px 0; padding: 0;">✨ Features</h3>
       <ul style="margin: 0; padding-left: 20px; line-height: 1.5;">
         <li><strong>Interactive Drill Cards:</strong> Custom-designed visual templates for training tracking.</li>
-        <li><strong>XP Tracker & Level Engine: Live state updates for progress bars.</li>
-        <li><strong>Centralized Training Log: Dashboard to track consistency and workout notes.</li>
+        <li><strong>XP Tracker & Level Engine:</strong> Live state updates for progress bars.</li>
+        <li><strong>Centralized Training Log:</strong> Dashboard to track consistency and workout notes.</li>
         <li><strong>Gamified Progression:</strong> Dynamic mechanics to keep players engaged.</li>
         <li><strong>Responsive Design:</strong> Optimized for both mobile and desktop use on the court.</li>
       </ul>
