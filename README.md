@@ -19,6 +19,8 @@
       <h3 style="margin: 0 0 8px 0; padding: 0;">✨ Features</h3>
       <ul style="margin: 0; padding-left: 20px; line-height: 1.5;">
         <li><strong>Interactive Drill Cards:</strong> Custom-designed visual templates for training tracking.</li>
+        <li><strong>XP Tracker & Level Engine: Live state updates for progress bars.</li>
+        <li><strong>Centralized Training Log: Dashboard to track consistency and workout notes.</li>
         <li><strong>Gamified Progression:</strong> Dynamic mechanics to keep players engaged.</li>
         <li><strong>Responsive Design:</strong> Optimized for both mobile and desktop use on the court.</li>
       </ul>
@@ -67,17 +69,18 @@ I acted as the sole Product Creator and Architect, managing the entire vertical 
 * **Design Suite:** Original UI/UX Wireframing, Vector Logo Design, and Brand Asset Creation.
 * **Generated Tech Stack:** TypeScript, React, Tailwind CSS, and Vite (Production-ready framework scaffolded via Lovable AI).
 * **Version Control:** Git & GitHub tracking.
+* **Data Persistence:** Created a centralized logging dashboard for historical consistency timelines. 
 * **Court-Optimized UX:** Engineered high-contrast visual layouts and oversized touch-targets tailored specifically for outdoor courts and single-handed mobile use.
-* **Business Value:** Demonstrates full-scale independent execution, maximizing modern AI development tools to eliminate multi-person overhead. 
+* **Business Value:** Demonstrates full-scale independent execution, maximizing modern AI development tools to eliminate multi-person overhead
 
 ---
 
 ### 🗺️ Final Revision Roadmap (WIP)
 The next development sprints focus on scaling this prototype into a commercial web product:
 
-1. 🔒 **One-Time Payment Paywall:** Integration of a secure digital transaction gateway to unlock the full proprietary card deck with a single lifetime purchase.
-2. ⚡ **XP Tracker & Level Engine:** Connecting frontend state changes to user actions—instantly updating experience progress bars and level badges when a drill card is marked "Completed."
-3. 📅 **Centralized Training Log:** A dedicated dashboard page enabling users to record completion dates, track historical consistency timelines, and save qualitative workout notes.
+* **🔒 Secure User Authentication: Implementing unique username and password credentials to protect user profiles.
+* **🔄 Cloud Synchronization: Integrating Supabase backend services to seamlessly sync drill progress and logs across multiple devices.
+* **💳 One-Time Payment Paywall: Integration of a secure gateway to unlock the full proprietary card deck
 
 
 
