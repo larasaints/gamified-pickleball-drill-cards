@@ -8,13 +8,13 @@
     <!-- Right Column: Text Block -->
     <td valign="top" style="border: none !important; padding: 0;">
       <div style= margin: 0 0 10px 0; line-height: 1.2;">
-        <strong><h2 style="font-size: 30px;">GAMIFIED PICKLEBALL DRILL CARDS</h2></strong>
+        <strong><h2 style="font-size: 30px;">THE KITCHEN DECK : Gamified Pickleball Drill Cards</h2></strong>
       </div>
       <p style="margin: 0 0 12px 0; line-height: 1.5;">
         An interactive web application designed to gamify pickleball training through custom-designed drill cards and engaging progression mechanics. Built mobile-first to serve as an on-demand "pocket coach" directly on the court. It turns physical conditioning into an addictive digital card game, providing a structured alternative to expensive private coaching sessions.
       </p>
       <p style="margin: 0 0 16px 0;">
-        🚀 <strong><a href="https://gamifiedpickleballdrill.lovable.app" target="_blank">Click Here to Play the Live Game</a></strong>
+        🚀 <strong><a href="https://thekitchendeck.lovable.app" target="_blank">Click Here to Play the Live Game</a></strong>
       </p>
       <h3 style="margin: 0 0 8px 0; padding: 0;">✨ Features</h3>
       <ul style="margin: 0; padding-left: 20px; line-height: 1.5;">
