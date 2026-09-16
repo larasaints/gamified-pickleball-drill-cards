@@ -2,7 +2,7 @@
   <tr style="border: none !important;">
     <!-- Left Column: Video Window -->
     <td valign="top" width="220" style="border: none !important; padding: 0; padding-right: 20px;">
-      <video src="https://github.com/user-attachments/assets/0076b932-90df-4a4d-8b54-91a14b9ee0af" width="220" controls autoplay muted loop>
+      <video src="https://github.com/user-attachments/assets/4ba5ebe5-f577-4290-a757-dc46dd5669fd" width="220" controls autoplay muted loop>
       </video>
     </td> 
     <!-- Right Column: Text Block -->
@@ -32,13 +32,14 @@
 
 <table>
   <tr>
-    <td><img width="200" height="400" alt="image07 png" src="https://github.com/user-attachments/assets/e772a7e9-4df3-4c93-b870-0b64df7b6bfd"></td>
-    <td><img width="200" height="400" alt="image07 png" src="https://github.com/user-attachments/assets/73dea25d-dd27-4728-b0c1-9af8faaf81d1"></td>
-    <td><img width="200" height="400" alt="image02 png" src="https://github.com/user-attachments/assets/46a92b3e-b7c6-4458-bcdd-ab078b5cf5ba"></td>
-    <td><img width="200" height="400" alt="image03 png" src="https://github.com/user-attachments/assets/ebc7b858-fd68-4070-8421-4c0942b3af67"></td>
-    <td><img width="200" height="400" alt="image04 png" src="https://github.com/user-attachments/assets/fb60f1a5-89b6-456c-8f6a-8715843b7128"></td>
-    <td><img width="200" height="400" alt="image05 png" src="https://github.com/user-attachments/assets/50daf546-15a4-4438-bd7d-d22820a5dee9"></td>
-    <td><img width="200" height="400" alt="image06 png" src="https://github.com/user-attachments/assets/7dbe4310-02de-40a4-9fac-926a2ab2bac6"></td>
+    <td><img width="1290" height="2630" alt="image00001" src="https://github.com/user-attachments/assets/7e87ba07-1e0b-43b4-bbbf-3c0016e169b9"></td>
+    <td><img width="1290" height="2567" alt="image00002" src="https://github.com/user-attachments/assets/eb5134e7-995a-4460-b105-8bb989ce13cf"></td>
+    <td><img width="1290" height="2645" alt="image00003" src="https://github.com/user-attachments/assets/0fe8a247-c971-4e70-bead-ea50bbdaa6e5"></td>
+    <td><img width="1290" height="2620" alt="image00004" src="https://github.com/user-attachments/assets/ba71260e-83fb-4ec3-a90f-707a05270bd1"></td>
+    <td><img width="1290" height="2666" alt="image00005" src="https://github.com/user-attachments/assets/2616118b-d107-4dd1-911d-dd8f1363cc82"></td>
+    <td><img width="1289" height="2638" alt="image00006" src="https://github.com/user-attachments/assets/e8b1023d-5216-4108-a557-2b3369bbe669"></td>
+    <td><img width="1290" height="2661" alt="image00007" src="https://github.com/user-attachments/assets/65913b9d-9e32-4fba-804f-c78bf43e54ee"></td>
+    <td><img width="1289" height="2644" alt="image00008" src="https://github.com/user-attachments/assets/2379de6a-4cf8-4c99-be54-dd1b957b970f"></td>
   </tr>
 </table>
   
