@@ -17,13 +17,16 @@
         🚀 <strong><a href="https://thekitchendeck.lovable.app" target="_blank">Click Here to Play the Live Game</a></strong>
       </p>
       <h3 style="margin: 0 0 8px 0; padding: 0;">✨ Features</h3>
-      <ul style="margin: 0; padding-left: 20px; line-height: 1.5;">
-        <li><strong>Interactive Drill Cards:</strong> Custom-designed visual templates for training tracking.</li>
-        <li><strong>XP Tracker & Level Engine:</strong> Live state updates for progress bars.</li>
-        <li><strong>Centralized Training Log:</strong> Dashboard to track consistency and workout notes.</li>
-        <li><strong>Gamified Progression:</strong> Dynamic mechanics to keep players engaged.</li>
-        <li><strong>Responsive Design:</strong> Optimized for both mobile and desktop use on the court.</li>
-      </ul>
+      <ul style="margin: 0; padding-left: 5px; line-height: 1.5;">
+      <h6>  <li><strong>Flexible Authentication & Accounts:</strong> Features a full Log In / Sign Up flow (Email + Password) alongside a frictionless <strong>Guest Option</strong>. A persistent global status strip displays active account initials alongside a quick Log In / Log Out action toggle. Guest sessions explicitly display active guardrails: <strong>"Your progress is saved locally. Create an account to access your stats from any device.</strong></li>
+        <li><strong>Interactive Drill Cards:</strong> Custom-designed visual templates built specifically to track your training sessions. The deck features 100% original content where every drill, card design, mission objective, goal metric, and challenge parameter was conceptualized and created entirely from scratch. Includes an integrated random card picker with depletion tracking to flag used cards and prevent duplicate draws during a single workout.</li>
+        <li><strong>XP Tracker & Level Engine:</strong> Powers the app's live state updates for progress bars. It instantly visualizes performance growth, tracking and updating your total experience points, rank tiers, overall levels, and consecutive daily streaks as drills are completed.</li>
+        <li><strong>Centralized Training Log:</strong> A dedicated user dashboard engineered to track consistency and store personalized workout notes, serving as a unified history hub for all historical session performance.</li>
+        <li><strong>Gamified Progression:</strong> Dynamic mechanics built to keep players engaged over time. The app calculates running levels, processes achievement milestones, and automatically computes consecutive daily training streaks to push players to stay active.</li>
+        <li><strong>Smart Cloud Synchronization:</strong> All earned XP, progress metrics, logged history, and training notes automatically back up to the cloud. This provides seamless data portability across any mobile browser or desktop device.</li>
+        <li><strong>Guest-to-Account Migration:</strong> Start practicing immediately without signing up. Any drill history or performance data logged during Guest Mode automatically ports into your permanent account the moment you register.</li>
+        <li><strong>Responsive Design:</strong> Systematically optimized for both mobile and desktop use on the court, ensuring clean, easy navigation and smooth interface interaction while actively practicing under the sun.</li>
+      </h6> </ul>
     </td>
   </tr>
 </table>
@@ -66,22 +69,24 @@ I acted as the sole Product Creator and Architect, managing the entire vertical 
 
 ---
 
-### 🛠️ Tech Stack & Key Achievements
-* **Design Suite:** Original UI/UX Wireframing, Vector Logo Design, and Brand Asset Creation.
-* **Generated Tech Stack:** TypeScript, React, Tailwind CSS, and Vite (Production-ready framework scaffolded via Lovable AI).
-* **Version Control:** Git & GitHub tracking.
-* **Data Persistence:** Created a centralized logging dashboard for historical consistency timelines. 
+## 🛠️ Technology Stack, Local Development & Key Achievements
+
+* **Frontend Framework:** React / Vite (via Lovable workflow)
+* **Styling:** Tailwind CSS
+* **Database & Auth:** Supabase / Firebase (Cloud sync & migration layer)
+* **Hosting:** Netlify / Vercel
 * **Court-Optimized UX:** Engineered high-contrast visual layouts and oversized touch-targets tailored specifically for outdoor courts and single-handed mobile use.
 * **Business Value:** Demonstrates full-scale independent execution, maximizing modern AI development tools to eliminate multi-person overhead
 
 ---
 
 ### 🗺️ Final Revision Roadmap (WIP)
-The next development sprints focus on scaling this prototype into a commercial web product:
+#### 💳 Planned: Localized Payment Processing (Philippines)
+Future updates will introduce a premium device-specific gatekeeper paywall designed for the Philippine market with zero upfront cost deployment infrastructure.
 
-* **🔒 Secure User Authentication: Implementing unique username and password credentials to protect user profiles.
-* **🔄 Cloud Synchronization: Integrating Supabase backend services to seamlessly sync drill progress and logs across multiple devices.
-* **💳 One-Time Payment Paywall: Integration of a secure gateway to unlock the full proprietary card deck
+* **The Lock:** Upon initial load, the app will scan local device storage for a verified purchase token. 
+* **Local Channels:** Outbound checkout redirects will safely handle transactions using local channels like **GCash** and **BDO Online Banking**.
+* **Anti-Exploit Security:** Once payment clears, the app will process the unlock locally and automatically strip URL parameters to prevent link-sharing exploits, keeping the purchase securely bound to the buyer's device.
 
 
 
